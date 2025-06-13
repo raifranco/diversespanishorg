@@ -34,7 +34,7 @@ import{u as q,j as e,f as k,n as a,l as g,m as f,P as c,a as n,y as o,b as x,c a
 </style>
 
 <form action="https://www.paypal.com/ncp/payment/CJEJ9HF6HS982" method="post" target="_blank" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
-  <input class="pp-PB276H3GR354G" type="submit" value="Comprar ahora">
+  <input class="pp-CJEJ9HF6HS982" type="submit" value="Comprar ahora">
   <img src="https://www.paypalobjects.com/images/Debit_Credit_APM.svg" alt="cards">
   <section> Con la tecnología de <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-wordmark-color.svg" alt="paypal" style="height:0.875rem;vertical-align:middle;"></section>
 </form>`,className:"w-html-embed"})]})]}),e.jsxs(a,{className:"w-box cauqto8 c1lfjoq7 c18v2pa2 c1z0l37u c1ml0hr7 c1qyy4dh c1qom380 c1p8k1aa c608rfc c1cfvpvs cx6c9kw",children:[e.jsx(a,{className:"w-box",children:e.jsx(o,{src:"/assets/7_X-Aynz7UbvgCk4Fv2oWZz.png",width:1080,height:1350,alt:"Arrow going up",className:"w-image crglsme c14ip164 c1p217py c193ydh7 c19qnf5d cyzvp1p"})}),e.jsxs(a,{className:"w-box cry9bxc c1lfjoq7 c1md20bl c1e892th",children:[e.jsx(r,{tag:"h2",className:"w-heading cuoke4w c11dowh9 c32myit cwrra4i ct5hk3t c1j6xl5",children:"💬 Conversation Practice"}),e.jsxs(d,{className:"w-paragraph",children:[e.jsx(l,{className:"w-bold-text",children:"30 USD per class (50 min)"}),"",e.jsx("br",{}),"","Improve your fluency and confidence with conversations tailored to your interests. "]}),e.jsx(c,{code:`<style>
