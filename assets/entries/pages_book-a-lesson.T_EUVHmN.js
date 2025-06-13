@@ -16,7 +16,7 @@ import{u as q,j as e,f as k,n as a,l as g,m as f,P as c,a as n,y as o,b as x,c a
   src="https://assets.calendly.com/assets/external/widget.js" async>
 <\/script>
 `,className:"w-html-embed"})})]}),e.jsxs(a,{tag:"section",id:"services",className:"w-box c1t3ycvy c1mkej7s c1emwff3 c1lj7tam c6fq9q9 c1dpy2mi c1u0662a c1titjpo cir85gx c10tp2jf c1e72s5c ckzqjx9 c10jxkhw chjyh7x c15zn2dl c1b2sbbv c1qom380 cmn85xq c1glz8f4 c1foc3vw",children:[e.jsx(r,{className:"w-heading c1fz1avm c11dowh9 c32myit c1cfvpvs c1h82vm9 cizjjwu c1qom380 ct5hk3t c1nrah9j c1dxq9cf cry9bxc c16xs6ny ct02u4h cgn90jy cve6fn9",children:"Personalized lessons to match your goals and learning style"}),e.jsx("div",{className:"w-element c1t3ycvy c1mkej7s c1emwff3 c1lj7tam c6fq9q9 c1dpy2mi c1u0662a c1titjpo cir85gx c10tp2jf c1e72s5c ckzqjx9 c10jxkhw chjyh7x c15zn2dl c1b2sbbv c1qom380 cmn85xq c1glz8f4 c1foc3vw",children:e.jsxs(a,{"data-ani-children":"true","data-ani":"fade",className:"w-box c6fq9q9 c1lj7tam c1ldum37 cblpe2z copqmak chcpi3e c1lfjoq7 ct5hk3t c10zkoym c138k9jc cl4bapb c5tmc3l ct8c5y2 c1qom380 cl4gv6x crx2j5q ceqm483 c1cvgauw cmn85xq ct02u4h c16fihm8 c183i10h c1ky3yyl cqqvwpj c1t0ihdp cu4c3t1",children:[e.jsxs(a,{className:"w-box cauqto8 c1lfjoq7 c18v2pa2 c1z0l37u c1ml0hr7 c1qyy4dh c1qom380 c1p8k1aa c608rfc c1cfvpvs cx6c9kw",children:[e.jsx(a,{className:"w-box",children:e.jsx(o,{src:"/assets/10_7efV6FNr2GTniNIAn_y72.png",width:1080,height:1350,alt:"Arrow going up",className:"w-image crglsme c14ip164 c1p217py c193ydh7 c19qnf5d cyzvp1p"})}),e.jsxs(a,{className:"w-box cry9bxc c1lfjoq7 c1md20bl c1e892th",children:[e.jsx(r,{tag:"h2",className:"w-heading cuoke4w c11dowh9 c32myit cwrra4i ct5hk3t c1j6xl5",children:"🚀Trial Lesson"}),e.jsxs(d,{className:"w-paragraph",children:[e.jsx(l,{className:"w-bold-text",children:"10 USD per class (50 min)"}),"",e.jsx("br",{}),"","Curious about learning Spanish with Diverse Spanish? Let’s discover the best way for you to learn Spanish!"]}),e.jsx(c,{code:`<style>
-.pp-PB276H3GR354G {
+.pp-CJEJ9HF6HS982 {
     text-align: center;
     border: none;
     border-radius: 1.5rem;
@@ -126,7 +126,7 @@ import{u as q,j as e,f as k,n as a,l as g,m as f,P as c,a as n,y as o,b as x,c a
   <img src="https://www.paypalobjects.com/images/Debit_Credit_APM.svg" alt="cards">
   <section> Con la tecnología de <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-wordmark-color.svg" alt="paypal" style="height:0.875rem;vertical-align:middle;"></section>
 </form>`,className:"w-html-embed"})]})]}),e.jsxs(a,{className:"w-box cauqto8 c1lfjoq7 c18v2pa2 c1z0l37u c1ml0hr7 c1qyy4dh c1qom380 c1p8k1aa c608rfc c1cfvpvs cx6c9kw",children:[e.jsx(a,{className:"w-box",children:e.jsx(o,{src:"/assets/9_TNpKXBeTxcRLQe05pRvQb.png",width:1080,height:1350,alt:"Arrow going up",className:"w-image crglsme c14ip164 c1p217py c193ydh7 c19qnf5d cyzvp1p"})}),e.jsxs(a,{className:"w-box cry9bxc c1lfjoq7 c1md20bl c1e892th",children:[e.jsx(r,{tag:"h2",className:"w-heading cuoke4w c11dowh9 c32myit cwrra4i ct5hk3t c1j6xl5",children:"⭐ Fully Customized Spanish"}),e.jsxs(d,{className:"w-paragraph",children:[e.jsx(l,{className:"w-bold-text",children:"100 USD per class (50 min)"}),"",e.jsx("br",{}),"","The most personalized learning experience, includes tailored audio (Pimsleur-style) + flashcards"]}),e.jsx(c,{code:`<style>
-.pp-PB276H3GR354G {
+.pp-5E4PXR4WBJZ3A {
     text-align: center;
     border: none;
     border-radius: 1.5rem;
