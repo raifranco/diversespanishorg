@@ -33,7 +33,7 @@ import{u as q,j as e,f as k,n as a,l as g,m as f,P as c,a as n,y as o,b as x,c a
 }
 </style>
 
-<form action="https://www.paypal.com/ncp/payment/PB276H3GR354G" method="post" target="_blank" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
+<form action="https://www.paypal.com/ncp/payment/CJEJ9HF6HS982" method="post" target="_blank" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
   <input class="pp-PB276H3GR354G" type="submit" value="Comprar ahora">
   <img src="https://www.paypalobjects.com/images/Debit_Credit_APM.svg" alt="cards">
   <section> Con la tecnología de <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-wordmark-color.svg" alt="paypal" style="height:0.875rem;vertical-align:middle;"></section>
