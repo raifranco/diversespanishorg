@@ -188,27 +188,28 @@ to{height:0}}[data-ani='expand'],[data-ani='expand'][data-state='open'],[data-an
   window.onload = function() {
     Calendly.initBadgeWidget({
       url: 'https://calendly.com/raifranco/diverse-spanish?hide_gdpr_banner=1',
-      text: 'Book a lesson', // Sin etiquetas <strong>, texto sin negritas
-      color: '#fd332e',       // Nuevo color rojo 
-      textColor: '#ffffff',   // Color del texto
+      text: 'Book a lesson', // Texto sin negritas
+      color: '#fd332e',       // Color rojo vibrante 
+      textColor: '#ffffff',   // Texto en blanco
       branding: false         // Oculta "powered by Calendly"
     });
   };
 </script>
 
-<!-- Estilos personalizados para quitar negritas, bordes y ajustar estilo -->
+<!-- Estilos personalizados para el botón -->
 <style>
-  /* Ocultar "powered by Calendly" */
+  /* Ocultar el texto "powered by Calendly" */
   .calendly-badge-widget .powered-by {
     display: none;
   }
 
-  /* Quitar negritas y borde del botón */
+  /* Aplicar estilo al botón */
   .calendly-badge-widget {
-    font-weight: normal !important; /* Texto sin negritas */
+    font-family: Arial, Helvetica, sans-serif !important; /* Fuente personalizada */
+    font-weight: normal !important; /* Sin negritas */
     border: none !important;        /* Sin borde */
-    border-radius: 20px;            /* Bordes redondeados si deseas mantenerlos */
-    padding: 8px 16px;              /* Ajuste visual del texto dentro del botón */
+    border-radius: 20px !important; /* Bordes redondeados (opcional) */
+    padding: 8px 16px !important;   /* Espaciado interno */
   }
 </style>
 <!-- Final del widget de globo de Calendly -->
