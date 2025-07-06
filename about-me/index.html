@@ -74,4 +74,37 @@ to{height:var(--newHeight)}}
 @keyframes expandUp{from{height:var(--newHeight)}
 to{height:0}}[data-ani='expand'],[data-ani='expand'][data-state='open'],[data-ani='expand'].in{--newHeight:var(--custom-height,var(--radix-accordion-content-height,var(--radix-collapsible-content-height,100%)));overflow:hidden;opacity:1}[data-ani-children][data-ani='expand']>.in,[data-ani='expand']:where(.in:not([data-state]),[data-state$='open'],[data-state='active']){animation:expandDown var(--ani-duration)var(--ani-easing)}[data-ani-children][data-ani='expand']>.out,[data-ani='expand']:where(.out:not([data-state]),[data-state='closed'],[data-state='inactive']){animation:expandUp var(--ani-duration)var(--ani-easing)}
 @media(prefers-reduced-motion:reduce){[data-ani]:not([data-ani-children]),[data-ani-progress]:not([data-ani-children]),[data-ani-children]>*{opacity:1;transform:none;animation:none;rotate:none;scale:none;translate:none}}
-</style></div></div></div></div></div></div><script id="vike_pageContext" type="application/json">{"_urlRewrite":null,"pageId":"/pages/about-me","routeParams":{},"data":{"url":"https://url/about-me","system":{"params":{},"search":{},"origin":"https://url"},"resources":{},"pageMeta":{"title":"About me | Diverse Spanish","description":"Meet the founder of Diverse Spanish: teacher, interpreter and neurodivergent activist who teaches Spanish with a transfeminist and inclusive perspective.","excludePageFromSearch":false,"language":"!undefined","socialImageAssetName":"!undefined","socialImageUrl":"!undefined","status":"!undefined","redirect":"!undefined","custom":[]}}}</script><script id="vike_globalContext" type="application/json">{}</script><script src="/assets/entries/entry-server-routing.DXkCxv_L.js" type="module" async></script><link rel="modulepreload" href="/assets/entries/pages_about-me.Cj0hIaB-.js" as="script" type="text/javascript"><link rel="modulepreload" href="/assets/chunks/chunk-B7bmGytq.js" as="script" type="text/javascript"></body></html>
+</style></div></div></div></div></div></div><script id="vike_pageContext" type="application/json">{"_urlRewrite":null,"pageId":"/pages/about-me","routeParams":{},"data":{"url":"https://url/about-me","system":{"params":{},"search":{},"origin":"https://url"},"resources":{},"pageMeta":{"title":"About me | Diverse Spanish","description":"Meet the founder of Diverse Spanish: teacher, interpreter and neurodivergent activist who teaches Spanish with a transfeminist and inclusive perspective.","excludePageFromSearch":false,"language":"!undefined","socialImageAssetName":"!undefined","socialImageUrl":"!undefined","status":"!undefined","redirect":"!undefined","custom":[]}}}</script><script id="vike_globalContext" type="application/json">{}</script><script src="/assets/entries/entry-server-routing.DXkCxv_L.js" type="module" async></script><link rel="modulepreload" href="/assets/entries/pages_about-me.Cj0hIaB-.js" as="script" type="text/javascript"><link rel="modulepreload" href="/assets/chunks/chunk-B7bmGytq.js" as="script" type="text/javascript">
+  <!-- Principio del widget de globo de Calendly -->
+<link href="https://calendly.com/assets/external/widget.css"  rel="stylesheet">
+<script src="https://calendly.com/assets/external/widget.js"  type="text/javascript" async></script>
+<script type="text/javascript">
+  window.onload = function() {
+    Calendly.initBadgeWidget({
+      url: 'https://calendly.com/raifranco/diverse-spanish?hide_gdpr_banner=1',
+      text: 'Book a lesson', // Texto sin negritas
+      color: '#fd332e',       // Color rojo vibrante 
+      textColor: '#ffffff',   // Texto en blanco
+      branding: false         // Oculta "powered by Calendly"
+    });
+  };
+</script>
+
+<!-- Estilos personalizados para el botón -->
+<style>
+  /* Ocultar el texto "powered by Calendly" */
+  .calendly-badge-widget .powered-by {
+    display: none;
+  }
+
+  /* Aplicar estilo al botón */
+  .calendly-badge-widget {
+    font-family: Arial, Helvetica, sans-serif !important; /* Fuente personalizada */
+    font-weight: normal !important; /* Sin negritas */
+    border: none !important;        /* Sin borde */
+    border-radius: 20px !important; /* Bordes redondeados (opcional) */
+    padding: 8px 16px !important;   /* Espaciado interno */
+  }
+</style>
+<!-- Final del widget de globo de Calendly -->
+  </body></html>
