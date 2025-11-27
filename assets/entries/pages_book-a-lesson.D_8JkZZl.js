@@ -29,8 +29,8 @@ import{u as q,j as e,f as k,n as a,l as g,m as f,P as c,a as n,y as o,b as x,c a
   <input class="pp-YC45CHGX2BKWA" type="submit" value="Comprar ahora">
   <img src="https://www.paypalobjects.com/images/Debit_Credit_APM.svg" alt="cards">
   <section> Con la tecnología de <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-wordmark-color.svg" alt="paypal" style="height:0.875rem;vertical-align:middle;"></section>
-</form>`,className:"w-html-embed"})]})]}),e.jsxs(a,{className:"w-box cauqto8 c1lfjoq7 c18v2pa2 c1z0l37u c1ml0hr7 c1qyy4dh c1qom380 c1p8k1aa c608rfc c1cfvpvs cx6c9kw",children:[e.jsx(a,{className:"w-box",children:e.jsx(o,{src:"/assets/7_X-Aynz7UbvgCk4Fv2oWZz.png",width:1080,height:1350,alt:"Arrow going up",className:"w-image crglsme c14ip164 c1p217py c193ydh7 c19qnf5d cyzvp1p"})}),e.jsxs(a,{className:"w-box cry9bxc c1lfjoq7 c1md20bl c1e892th",children:[e.jsx(r,{tag:"h2",className:"w-heading cuoke4w c11dowh9 c32myit cwrra4i ct5hk3t c1j6xl5",children:"💬 Conversation Practice"}),e.jsxs(d,{className:"w-paragraph",children:[e.jsx(l,{className:"w-bold-text",children:"30 USD per class (50 min)"}),"",e.jsx("br",{}),"","Improve your fluency and confidence with conversations tailored to your interests. "]}),e.jsx(c,{code:`<style>
-.pp-2F3JYKGTLBLB4 {
+</form>`,className:"w-html-embed"})]})]}),e.jsxs(a,{className:"w-box cauqto8 c1lfjoq7 c18v2pa2 c1z0l37u c1ml0hr7 c1qyy4dh c1qom380 c1p8k1aa c608rfc c1cfvpvs cx6c9kw",children:[e.jsx(a,{className:"w-box",children:e.jsx(o,{src:"/assets/7_X-Aynz7UbvgCk4Fv2oWZz.png",width:1080,height:1350,alt:"Arrow going up",className:"w-image crglsme c14ip164 c1p217py c193ydh7 c19qnf5d cyzvp1p"})}),e.jsxs(a,{className:"w-box cry9bxc c1lfjoq7 c1md20bl c1e892th",children:[e.jsx(r,{tag:"h2",className:"w-heading cuoke4w c11dowh9 c32myit cwrra4i ct5hk3t c1j6xl5",children:"💬 Conversation Practice"}),e.jsxs(d,{className:"w-paragraph",children:[e.jsx(l,{className:"w-bold-text",children:"30 EUR per class (50 min)"}),"",e.jsx("br",{}),"","Improve your fluency and confidence with conversations tailored to your interests. "]}),e.jsx(c,{code:`<style>
+.pp-2XYUC493HF2A6 {
     text-align: center;
     border: none;
     border-radius: 1.5rem;
@@ -47,12 +47,12 @@ import{u as q,j as e,f as k,n as a,l as g,m as f,P as c,a as n,y as o,b as x,c a
 }
 </style>
 
-<form action="https://www.paypal.com/ncp/payment/2F3JYKGTLBLB4" method="post" target="_blank" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
-  <input class="pp-2F3JYKGTLBLB4" type="submit" value="Comprar ahora">
+<form action="https://www.paypal.com/ncp/payment/2XYUC493HF2A6" method="post" target="_blank" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
+  <input class="pp-2XYUC493HF2A6" type="submit" value="Comprar ahora">
   <img src="https://www.paypalobjects.com/images/Debit_Credit_APM.svg" alt="cards">
   <section> Con la tecnología de <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-wordmark-color.svg" alt="paypal" style="height:0.875rem;vertical-align:middle;"></section>
-</form>`,className:"w-html-embed"})]})]}),e.jsxs(a,{className:"w-box cauqto8 c1lfjoq7 c18v2pa2 c1z0l37u c1ml0hr7 c1qyy4dh c1qom380 c1p8k1aa c1cfvpvs c608rfc cx6c9kw",children:[e.jsx(a,{className:"w-box",children:e.jsx(o,{src:"/assets/8_havsJmHSYNhDsyBGAIfCG.png",width:1080,height:1350,alt:"Arrow going up",className:"w-image crglsme c14ip164 c1p217py c193ydh7 c19qnf5d cyzvp1p"})}),e.jsxs(a,{className:"w-box cry9bxc c1lfjoq7 c1md20bl c1e892th",children:[e.jsx(r,{tag:"h2",className:"w-heading cuoke4w c11dowh9 c32myit cwrra4i ct5hk3t c1j6xl5",children:"📈 Spanish at Your Pace"}),e.jsxs(d,{className:"w-paragraph",children:[e.jsx(l,{className:"w-bold-text",children:"40 USD per class (50 min)"}),"",e.jsx("br",{}),"","A structured course designed for your level, featuring interactive materials and personalized support"]}),e.jsx(c,{code:`<style>
-.pp-4RUZEDSKZT6FW {
+</form>`,className:"w-html-embed"})]})]}),e.jsxs(a,{className:"w-box cauqto8 c1lfjoq7 c18v2pa2 c1z0l37u c1ml0hr7 c1qyy4dh c1qom380 c1p8k1aa c1cfvpvs c608rfc cx6c9kw",children:[e.jsx(a,{className:"w-box",children:e.jsx(o,{src:"/assets/8_havsJmHSYNhDsyBGAIfCG.png",width:1080,height:1350,alt:"Arrow going up",className:"w-image crglsme c14ip164 c1p217py c193ydh7 c19qnf5d cyzvp1p"})}),e.jsxs(a,{className:"w-box cry9bxc c1lfjoq7 c1md20bl c1e892th",children:[e.jsx(r,{tag:"h2",className:"w-heading cuoke4w c11dowh9 c32myit cwrra4i ct5hk3t c1j6xl5",children:"📈 Spanish at Your Pace"}),e.jsxs(d,{className:"w-paragraph",children:[e.jsx(l,{className:"w-bold-text",children:"40 EUR per class (50 min)"}),"",e.jsx("br",{}),"","A structured course designed for your level, featuring interactive materials and personalized support"]}),e.jsx(c,{code:`<style>
+.pp-M9CMX96V6WSHL {
     text-align: center;
     border: none;
     border-radius: 1.5rem;
@@ -69,12 +69,12 @@ import{u as q,j as e,f as k,n as a,l as g,m as f,P as c,a as n,y as o,b as x,c a
 }
 </style>
 
-<form action="https://www.paypal.com/ncp/payment/4RUZEDSKZT6FW" method="post" target="_blank" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
-  <input class="pp-4RUZEDSKZT6FW" type="submit" value="Comprar ahora">
+<form action="https://www.paypal.com/ncp/payment/M9CMX96V6WSHL" method="post" target="_blank" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
+  <input class="pp-M9CMX96V6WSHL" type="submit" value="Comprar ahora">
   <img src="https://www.paypalobjects.com/images/Debit_Credit_APM.svg" alt="cards">
   <section> Con la tecnología de <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-wordmark-color.svg" alt="paypal" style="height:0.875rem;vertical-align:middle;"></section>
-</form>`,className:"w-html-embed"})]})]}),e.jsxs(a,{className:"w-box cauqto8 c1lfjoq7 c18v2pa2 c1z0l37u c1ml0hr7 c1qyy4dh c1qom380 c1p8k1aa c1cfvpvs c608rfc cx6c9kw",children:[e.jsx(a,{className:"w-box",children:e.jsx(o,{src:"/assets/11_G0BDvSaEWGr4zdcwDJF4j.png",width:1080,height:1350,alt:"Arrow going up",className:"w-image crglsme c14ip164 c1p217py c193ydh7 c19qnf5d cyzvp1p"})}),e.jsxs(a,{className:"w-box cry9bxc c1lfjoq7 c1md20bl c1e892th",children:[e.jsx(r,{tag:"h2",className:"w-heading cuoke4w c11dowh9 c32myit cwrra4i ct5hk3t c1j6xl5",children:"📚 Spanish at Your Pace + Flashcards"}),e.jsxs(d,{className:"w-paragraph",children:[e.jsx(l,{className:"w-bold-text",children:"50 USD per class (50 min)"}),"",e.jsx("br",{}),"","A structured course and weekly Anki flashcards to reinforce vocabulary and grammar."]}),e.jsx(c,{code:`<style>
-.pp-PB276H3GR354G {
+</form>`,className:"w-html-embed"})]})]}),e.jsxs(a,{className:"w-box cauqto8 c1lfjoq7 c18v2pa2 c1z0l37u c1ml0hr7 c1qyy4dh c1qom380 c1p8k1aa c1cfvpvs c608rfc cx6c9kw",children:[e.jsx(a,{className:"w-box",children:e.jsx(o,{src:"/assets/11_G0BDvSaEWGr4zdcwDJF4j.png",width:1080,height:1350,alt:"Arrow going up",className:"w-image crglsme c14ip164 c1p217py c193ydh7 c19qnf5d cyzvp1p"})}),e.jsxs(a,{className:"w-box cry9bxc c1lfjoq7 c1md20bl c1e892th",children:[e.jsx(r,{tag:"h2",className:"w-heading cuoke4w c11dowh9 c32myit cwrra4i ct5hk3t c1j6xl5",children:"📚 Spanish at Your Pace + Flashcards"}),e.jsxs(d,{className:"w-paragraph",children:[e.jsx(l,{className:"w-bold-text",children:"50 EUR per class (50 min)"}),"",e.jsx("br",{}),"","A structured course and weekly Anki flashcards to reinforce vocabulary and grammar."]}),e.jsx(c,{code:`<style>
+.pp-WNFJQ2LVHKJXL {
     text-align: center;
     border: none;
     border-radius: 1.5rem;
@@ -91,12 +91,12 @@ import{u as q,j as e,f as k,n as a,l as g,m as f,P as c,a as n,y as o,b as x,c a
 }
 </style>
 
-<form action="https://www.paypal.com/ncp/payment/PB276H3GR354G" method="post" target="_blank" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
-  <input class="pp-PB276H3GR354G" type="submit" value="Comprar ahora">
+<form action="https://www.paypal.com/ncp/payment/WNFJQ2LVHKJXL" method="post" target="_blank" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
+  <input class="pp-WNFJQ2LVHKJXL" type="submit" value="Comprar ahora">
   <img src="https://www.paypalobjects.com/images/Debit_Credit_APM.svg" alt="cards">
   <section> Con la tecnología de <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-wordmark-color.svg" alt="paypal" style="height:0.875rem;vertical-align:middle;"></section>
-</form>`,className:"w-html-embed"})]})]}),e.jsxs(a,{className:"w-box cauqto8 c1lfjoq7 c18v2pa2 c1z0l37u c1ml0hr7 c1qyy4dh c1qom380 c1p8k1aa c608rfc c1cfvpvs cx6c9kw",children:[e.jsx(a,{className:"w-box",children:e.jsx(o,{src:"/assets/12_Ll2UER3AK9w59NhQwZuBe.png",width:1080,height:1350,alt:"Arrow going up",className:"w-image crglsme c14ip164 c1p217py c193ydh7 c19qnf5d cyzvp1p"})}),e.jsxs(a,{className:"w-box cry9bxc c1lfjoq7 c1md20bl c1e892th",children:[e.jsx(r,{tag:"h2",className:"w-heading cuoke4w c11dowh9 c32myit cwrra4i ct5hk3t c1j6xl5",children:"🩺 Spanish for Your Profession"}),e.jsxs(d,{className:"w-paragraph",children:[e.jsx(l,{className:"w-bold-text",children:"80 USD per class (50 min)"}),"",e.jsx("br",{}),"","Materials are customized to your needs, ensuring that every lesson is directly relevant to your work."]}),e.jsx(c,{code:`<style>
-.pp-54VD6F6UWL7JY {
+</form>`,className:"w-html-embed"})]})]}),e.jsxs(a,{className:"w-box cauqto8 c1lfjoq7 c18v2pa2 c1z0l37u c1ml0hr7 c1qyy4dh c1qom380 c1p8k1aa c608rfc c1cfvpvs cx6c9kw",children:[e.jsx(a,{className:"w-box",children:e.jsx(o,{src:"/assets/12_Ll2UER3AK9w59NhQwZuBe.png",width:1080,height:1350,alt:"Arrow going up",className:"w-image crglsme c14ip164 c1p217py c193ydh7 c19qnf5d cyzvp1p"})}),e.jsxs(a,{className:"w-box cry9bxc c1lfjoq7 c1md20bl c1e892th",children:[e.jsx(r,{tag:"h2",className:"w-heading cuoke4w c11dowh9 c32myit cwrra4i ct5hk3t c1j6xl5",children:"🩺 Spanish for Your Profession"}),e.jsxs(d,{className:"w-paragraph",children:[e.jsx(l,{className:"w-bold-text",children:"80 EUR per class (50 min)"}),"",e.jsx("br",{}),"","Materials are customized to your needs, ensuring that every lesson is directly relevant to your work."]}),e.jsx(c,{code:`<style>
+.pp-QGNDMMA8MFJ7C {
     text-align: center;
     border: none;
     border-radius: 1.5rem;
@@ -113,12 +113,12 @@ import{u as q,j as e,f as k,n as a,l as g,m as f,P as c,a as n,y as o,b as x,c a
 }
 </style>
 
-<form action="https://www.paypal.com/ncp/payment/54VD6F6UWL7JY" method="post" target="_blank" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
-  <input class="pp-54VD6F6UWL7JY" type="submit" value="Comprar ahora">
+<form action="https://www.paypal.com/ncp/payment/QGNDMMA8MFJ7C" method="post" target="_blank" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
+  <input class="pp-QGNDMMA8MFJ7C" type="submit" value="Comprar ahora">
   <img src="https://www.paypalobjects.com/images/Debit_Credit_APM.svg" alt="cards">
   <section> Con la tecnología de <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-wordmark-color.svg" alt="paypal" style="height:0.875rem;vertical-align:middle;"></section>
-</form>`,className:"w-html-embed"})]})]}),e.jsxs(a,{className:"w-box cauqto8 c1lfjoq7 c18v2pa2 c1z0l37u c1ml0hr7 c1qyy4dh c1qom380 c1p8k1aa c608rfc c1cfvpvs cx6c9kw",children:[e.jsx(a,{className:"w-box",children:e.jsx(o,{src:"/assets/9_TNpKXBeTxcRLQe05pRvQb.png",width:1080,height:1350,alt:"Arrow going up",className:"w-image crglsme c14ip164 c1p217py c193ydh7 c19qnf5d cyzvp1p"})}),e.jsxs(a,{className:"w-box cry9bxc c1lfjoq7 c1md20bl c1e892th",children:[e.jsx(r,{tag:"h2",className:"w-heading cuoke4w c11dowh9 c32myit cwrra4i ct5hk3t c1j6xl5",children:"⭐ Fully Customized Spanish"}),e.jsxs(d,{className:"w-paragraph",children:[e.jsx(l,{className:"w-bold-text",children:"100 USD per class (50 min)"}),"",e.jsx("br",{}),"","The most personalized learning experience, includes tailored audio (Pimsleur-style) + flashcards"]}),e.jsx(c,{code:`<style>
-.pp-5E4PXR4WBJZ3A {
+</form>`,className:"w-html-embed"})]})]}),e.jsxs(a,{className:"w-box cauqto8 c1lfjoq7 c18v2pa2 c1z0l37u c1ml0hr7 c1qyy4dh c1qom380 c1p8k1aa c608rfc c1cfvpvs cx6c9kw",children:[e.jsx(a,{className:"w-box",children:e.jsx(o,{src:"/assets/9_TNpKXBeTxcRLQe05pRvQb.png",width:1080,height:1350,alt:"Arrow going up",className:"w-image crglsme c14ip164 c1p217py c193ydh7 c19qnf5d cyzvp1p"})}),e.jsxs(a,{className:"w-box cry9bxc c1lfjoq7 c1md20bl c1e892th",children:[e.jsx(r,{tag:"h2",className:"w-heading cuoke4w c11dowh9 c32myit cwrra4i ct5hk3t c1j6xl5",children:"⭐ Fully Customized Spanish"}),e.jsxs(d,{className:"w-paragraph",children:[e.jsx(l,{className:"w-bold-text",children:"100 EUR per class (50 min)"}),"",e.jsx("br",{}),"","The most personalized learning experience, includes tailored audio (Pimsleur-style) + flashcards"]}),e.jsx(c,{code:`<style>
+.pp-5GJDHSNUMBHKL {
     text-align: center;
     border: none;
     border-radius: 1.5rem;
@@ -135,8 +135,8 @@ import{u as q,j as e,f as k,n as a,l as g,m as f,P as c,a as n,y as o,b as x,c a
 }
 </style>
 
-<form action="https://www.paypal.com/ncp/payment/5E4PXR4WBJZ3A" method="post" target="_blank" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
-  <input class="pp-5E4PXR4WBJZ3A" type="submit" value="Comprar ahora">
+<form action="https://www.paypal.com/ncp/payment/5GJDHSNUMBHKL" method="post" target="_blank" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
+  <input class="pp-5GJDHSNUMBHKL" type="submit" value="Comprar ahora">
   <img src="https://www.paypalobjects.com/images/Debit_Credit_APM.svg" alt="cards">
   <section> Con la tecnología de <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-wordmark-color.svg" alt="paypal" style="height:0.875rem;vertical-align:middle;"></section>
 </form>`,className:"w-html-embed"})]})]})]})})]}),e.jsxs(a,{tag:"section",id:"calendly",className:"w-box c1t3ycvy c1mkej7s c1emwff3 c1lj7tam c6fq9q9 c1dpy2mi c1u0662a c1nrah9j cir85gx c10tp2jf c1e72s5c ckzqjx9 c10jxkhw chjyh7x c15zn2dl c1b2sbbv c1qom380 cmn85xq c1glz8f4 c1foc3vw",children:[e.jsx(r,{tag:"h2",className:"w-heading c1fz1avm c11dowh9 c32myit c1cfvpvs c12ae6v5 ceu66s9 c1qom380 ct5hk3t c1nrah9j c1dxq9cf cve6fn9",children:"This is my calendar, choose your schedule"}),e.jsx(a,{className:"w-box c6fq9q9 c1lj7tam c1ldum37 cblpe2z copqmak chcpi3e c1lfjoq7 ct5hk3t c9xslfs c1xyv0ep cl4bapb c5tmc3l ct8c5y2 c1qom380 cl4gv6x crx2j5q ceqm483 c1cvgauw c16fihm8 c183i10h c1ky3yyl cqqvwpj c1t0ihdp cu4c3t1",children:e.jsx(c,{code:`<div 
