@@ -25,7 +25,70 @@ import{r as x,j as e,u as C,f as S,n as t,l as g,m as f,P as l,a as i,y as w,b a
 </svg>`,className:"w-html-embed cyhyq7c c1a3rzci c1owzfpt cr1ky9f c12y6bqh"})}),e.jsx(i,{href:"https://bsky.app/profile/diversespanish.bsky.social",className:"w-link",children:e.jsx(l,{code:`<a href="https://bsky.app/profile/diversespanish.bsky.social" target="_blank" rel="noopener noreferrer" aria-label="Bluesky">
   <img src="https://images.seeklogo.com/logo-png/51/2/bluesky-social-logo-png_seeklogo-514621.png" alt="Bluesky" width="28" height="28" style="filter: brightness(0) saturate(100%) invert(15%) sepia(0%) saturate(750%) hue-rotate(180deg);">
 </a>
-`,className:"w-html-embed"})})]}),e.jsx(i,{href:"https://classroom.google.com/c/ODM3Nzk1MjAzNDda?cjc=ggngbxzv",className:"w-link c1w8ybxa csru8nn c180fws7 c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p c1w7sxhx cioezag ce1qmkg cl60rel c1ib9cr2 cnsdrup c1gmhjv8 c1gz81h3 ctgs8sq c16euuik cjix5bc",children:"Join my Google classroom community now"})]})}),e.jsx(t,{className:"w-box c10zkoym ct8c5y2 cry9bxc c16ksc4q c1qyy4dh c1titjpo cqa61uw c13qqaub ct02u4h cmmn96k c1hj59h4",children:e.jsx(t,{className:"w-box c109i5bh",children:e.jsx(t,{className:"w-box",children:e.jsxs(A,{state:a,onStateChange:m=>{a=m,r(a)},className:"w-webhook-form c9jnjeu",children:[(a==="initial"||a==="error")&&e.jsxs(t,{className:"w-box cry9bxc c1lfjoq7 c1vbxtc4 cstjbd8 c1gz81h3 c1uiiwea",children:[e.jsxs(t,{className:"w-box cry9bxc c1lfjoq7 c1z0l37u c1ml0hr7 c18v2pa2 cemj91s",children:[e.jsx(t,{className:"w-box cry9bxc c1778y6x c1wt8a7g c1lfjoq7 c1md20bl c1e892th c1482uel",children:e.jsx(v,{placeholder:"Name",required:!0,name:"name",className:"w-text-input c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c1a8d7ts c1b2tb9q c122t6uk c1xm4ef6 c5t8s5h c15nepay cvhfaq4 czr2pxy cl60rel c2zsigv c1qcsrcr cqgzh32 c1vqqg4v csxm8zh"})}),e.jsx(t,{className:"w-box cry9bxc c1778y6x c1wt8a7g c1lfjoq7 c1md20bl c1e892th c1482uel",children:e.jsx(v,{placeholder:"Email",required:!0,type:"email",name:"email",className:"w-text-input c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c1a8d7ts c1b2tb9q c122t6uk c1xm4ef6 c5t8s5h c15nepay cvhfaq4 czr2pxy cl60rel c2zsigv c1qcsrcr cqgzh32 c1vqqg4v csxm8zh"})}),e.jsx(t,{className:"w-box cry9bxc c1778y6x c1wt8a7g c1lfjoq7 c1md20bl c1e892th c1482uel",children:e.jsx(_,{name:"Message",value:"",placeholder:"What are your goals with Spanish?",className:"w-text-area c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c1a8d7ts c1b2tb9q c122t6uk c1xm4ef6 c5t8s5h c15nepay cvhfaq4 czr2pxy cl60rel c2zsigv c1qcsrcr cqgzh32 c1vqqg4v csxm8zh"})})]}),e.jsx(P,{className:"w-button c1uz1hxp cnssp6a c1b2tb9q c1xm4ef6 c1a8d7ts c122t6uk c1gut7ra cvyaqlm c1wn9gbn ckhl5v6 c135vpv5 c121bfsy c1qom380 c1hz2opz c1c9nyn co9inq6 c18nx7en c13zjl4p c1p9ajzz cdko499 c1cb3y4c c1pa4wt7 ct5hk3t c10z54eq c1x4yn0w cqrpgto cl60rel c1ib9cr2 cmpnn5a",children:"Submit"})]}),a==="success"&&e.jsx(t,{className:"w-box",children:"Thank you for getting in touch!"}),a==="error"&&e.jsx(t,{className:"w-box cle73z7",children:"Sorry, something went wrong."})]})})})})]})]}),e.jsx(i,{href:"/credits",className:"w-link czdbake csru8nn c180fws7 c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p cl4bapb c13qqaub cioezag cl60rel c1ib9cr2 cnsdrup c1gmhjv8 c1gz81h3 ctgs8sq",children:"Credits"})]}),e.jsx(g,{children:e.jsxs(f,{children:[e.jsx(l,{code:'<script>(function(factory){if(typeof define==="function"&&define.amd){define(factory)}else if(typeof module!=="undefined"&&module.exports){module.exports=factory()}else{window.enterView=factory.call(this)}})((()=>{const lib=({selector:selector,enter:enter=(()=>{}),exit:exit=(()=>{}),progress:progress=(()=>{}),offset:offset=0,once:once=false})=>{let raf=null;let ticking=false;let elements=[];let height=0;function setupRaf(){raf=window.requestAnimationFrame||window.webkitRequestAnimationFrame||window.mozRequestAnimationFrame||window.msRequestAnimationFrame||function(callback){return setTimeout(callback,1e3/60)}}function getOffsetHeight(){if(offset&&typeof offset==="number"){const fraction=Math.min(Math.max(0,offset),1);return height-fraction*height}return height}function updateHeight(){const cH=document.documentElement.clientHeight;const wH=window.innerHeight||0;height=Math.max(cH,wH)}function updateScroll(){ticking=false;const targetFromTop=getOffsetHeight();elements=elements.filter((el=>{const{top:top,bottom:bottom,height:height}=el.getBoundingClientRect();const entered=top<targetFromTop;const exited=bottom<targetFromTop;if(entered&&!el.__ev_entered){enter(el);el.__ev_progress=0;progress(el,el.__ev_progress);if(once)return false}else if(!entered&&el.__ev_entered){el.__ev_progress=0;progress(el,el.__ev_progress);exit(el)}if(entered&&!exited){const delta=(targetFromTop-top)/height;el.__ev_progress=Math.min(1,Math.max(0,delta));progress(el,el.__ev_progress)}if(entered&&exited&&el.__ev_progress!==1){el.__ev_progress=1;progress(el,el.__ev_progress)}el.__ev_entered=entered;return true}));if(!elements.length){window.removeEventListener("scroll",onScroll,true);window.removeEventListener("resize",onResize,true);window.removeEventListener("load",onLoad,true)}}function onScroll(){if(!ticking){ticking=true;raf(updateScroll)}}function onResize(){updateHeight();updateScroll()}function onLoad(){updateHeight();updateScroll()}function selectionToArray(selection){const len=selection.length;const result=[];for(let i=0;i<len;i+=1){result.push(selection[i])}return result}function selectAll(selector,parent=document){if(typeof selector==="string"){return selectionToArray(parent.querySelectorAll(selector))}else if(selector instanceof NodeList){return selectionToArray(selector)}else if(selector instanceof Array){return selector}}function setupElements(){elements=selectAll(selector)}function setupEvents(){window.addEventListener("resize",onResize,true);window.addEventListener("scroll",onScroll,true);window.addEventListener("load",onLoad,true);onResize()}function init(){if(!selector){console.error("must pass selector");return false}setupElements();if(!elements||!elements.length){console.error("no els found");return false}setupRaf();setupEvents();updateScroll()}init()};return lib}));<\/script>',executeScriptOnCanvas:!0,clientOnly:!0,className:"w-html-embed"}),e.jsx(l,{code:`<style>
+`,className:"w-html-embed"})})]}),e.jsx(i,{href:"https://classroom.google.com/c/ODM3Nzk1MjAzNDda?cjc=ggngbxzv",className:"w-link c1w8ybxa csru8nn c180fws7 c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p c1w7sxhx cioezag ce1qmkg cl60rel c1ib9cr2 cnsdrup c1gmhjv8 c1gz81h3 ctgs8sq c16euuik cjix5bc",children:"Join my Google classroom community now"})]})}),e.jsx(a, {
+  className: "w-box c10zkoym ct8c5y2 cry9bxc c16ksc4q c1qyy4dh c1titjpo cqa61uw c13qqaub ct02u4h cmmn96k c1hj59h4",
+  children: e.jsx(a, {
+    className: "w-box c109i5bh",
+    children: e.jsxs("form", {
+      action: "https://formspree.io/f/mqekeabo",
+      method: "POST",
+      className: "w-box",
+      children: [
+        // Input Nombre
+        e.jsx(a, {
+          className: "w-box cry9bxc c1778y6x c1wt8a7g c1lfjoq7 c1md20bl c1e892th c1482uel",
+          children: e.jsx("input", {
+            placeholder: "Name",
+            required: true,
+            name: "name",
+            className: "w-text-input c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c1a8d7ts c1b2tb9q c122t6uk c1xm4ef6 c5t8s5h c15nepay cvhfaq4 czr2pxy cl60rel c2zsigv c1qcsrcr cqgzh32 c1vqqg4v csxm8zh"
+          })
+        }),
+        // Input Email
+        e.jsx(a, {
+          className: "w-box cry9bxc c1778y6x c1wt8a7g c1lfjoq7 c1md20bl c1e892th c1482uel",
+          children: e.jsx("input", {
+            type: "email",
+            placeholder: "Email",
+            required: true,
+            name: "email",
+            className: "w-text-input c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c1a8d7ts c1b2tb9q c122t6uk c1xm4ef6 c5t8s5h c15nepay cvhfaq4 czr2pxy cl60rel c2zsigv c1qcsrcr cqgzh32 c1vqqg4v csxm8zh"
+          })
+        }),
+        // Textarea Mensaje
+        e.jsx(a, {
+          className: "w-box cry9bxc c1778y6x c1wt8a7g c1lfjoq7 c1md20bl c1e892th c1482uel",
+          children: e.jsx("textarea", {
+            name: "message",
+            placeholder: "What are your goals with Spanish?",
+            className: "w-text-area c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c1a8d7ts c1b2tb9q c122t6uk c1xm4ef6 c5t8s5h c15nepay cvhfaq4 czr2pxy cl60rel c2zsigv c1qcsrcr cqgzh32 c1vqqg4v csxm8zh"
+          })
+        }),
+        // Botón Submit
+        e.jsx(a, {
+          className: "w-box",
+          children: e.jsx("button", {
+            type: "submit",
+            className: "w-button c1uz1hxp cnssp6a c1b2tb9q c1xm4ef6 c1a8d7ts c122t6uk c1gut7ra cvyaqlm c1wn9gbn ckhl5v6 c135vpv5 c121bfsy c1qom380 c1hz2opz c1c9nyn co9inq6 c18nx7en c13zjl4p c1p9ajzz cdko499 c1cb3y4c c1pa4wt7 ct5hk3t c10z54eq c1x4yn0w cqrpgto cl60rel c1ib9cr2 cmpnn5a",
+            children: "Submit"
+          })
+        }),
+        // Mensajes de estado
+        e.jsx(a, {
+          className: "w-box",
+          children: "Thank you for getting in touch!",
+          style: { display: t === "success" ? "block" : "none" }
+        }),
+        e.jsx(a, {
+          className: "w-box cle73z7",
+          children: "Sorry, something went wrong.",
+          style: { display: t === "error" ? "block" : "none" }
+        })
+      ]
+    })
+  })
+})
+,e.jsx(i,{href:"/credits",className:"w-link czdbake csru8nn c180fws7 c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p cl4bapb c13qqaub cioezag cl60rel c1ib9cr2 cnsdrup c1gmhjv8 c1gz81h3 ctgs8sq",children:"Credits"})]}),e.jsx(g,{children:e.jsxs(f,{children:[e.jsx(l,{code:'<script>(function(factory){if(typeof define==="function"&&define.amd){define(factory)}else if(typeof module!=="undefined"&&module.exports){module.exports=factory()}else{window.enterView=factory.call(this)}})((()=>{const lib=({selector:selector,enter:enter=(()=>{}),exit:exit=(()=>{}),progress:progress=(()=>{}),offset:offset=0,once:once=false})=>{let raf=null;let ticking=false;let elements=[];let height=0;function setupRaf(){raf=window.requestAnimationFrame||window.webkitRequestAnimationFrame||window.mozRequestAnimationFrame||window.msRequestAnimationFrame||function(callback){return setTimeout(callback,1e3/60)}}function getOffsetHeight(){if(offset&&typeof offset==="number"){const fraction=Math.min(Math.max(0,offset),1);return height-fraction*height}return height}function updateHeight(){const cH=document.documentElement.clientHeight;const wH=window.innerHeight||0;height=Math.max(cH,wH)}function updateScroll(){ticking=false;const targetFromTop=getOffsetHeight();elements=elements.filter((el=>{const{top:top,bottom:bottom,height:height}=el.getBoundingClientRect();const entered=top<targetFromTop;const exited=bottom<targetFromTop;if(entered&&!el.__ev_entered){enter(el);el.__ev_progress=0;progress(el,el.__ev_progress);if(once)return false}else if(!entered&&el.__ev_entered){el.__ev_progress=0;progress(el,el.__ev_progress);exit(el)}if(entered&&!exited){const delta=(targetFromTop-top)/height;el.__ev_progress=Math.min(1,Math.max(0,delta));progress(el,el.__ev_progress)}if(entered&&exited&&el.__ev_progress!==1){el.__ev_progress=1;progress(el,el.__ev_progress)}el.__ev_entered=entered;return true}));if(!elements.length){window.removeEventListener("scroll",onScroll,true);window.removeEventListener("resize",onResize,true);window.removeEventListener("load",onLoad,true)}}function onScroll(){if(!ticking){ticking=true;raf(updateScroll)}}function onResize(){updateHeight();updateScroll()}function onLoad(){updateHeight();updateScroll()}function selectionToArray(selection){const len=selection.length;const result=[];for(let i=0;i<len;i+=1){result.push(selection[i])}return result}function selectAll(selector,parent=document){if(typeof selector==="string"){return selectionToArray(parent.querySelectorAll(selector))}else if(selector instanceof NodeList){return selectionToArray(selector)}else if(selector instanceof Array){return selector}}function setupElements(){elements=selectAll(selector)}function setupEvents(){window.addEventListener("resize",onResize,true);window.addEventListener("scroll",onScroll,true);window.addEventListener("load",onLoad,true);onResize()}function init(){if(!selector){console.error("must pass selector");return false}setupElements();if(!elements||!elements.length){console.error("no els found");return false}setupRaf();setupEvents();updateScroll()}init()};return lib}));<\/script>',executeScriptOnCanvas:!0,clientOnly:!0,className:"w-html-embed"}),e.jsx(l,{code:`<style>
 :root {
   --ani-duration: var(--duration-default, .2s);
   --ani-delay: 0s;
