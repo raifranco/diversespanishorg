@@ -25,7 +25,7 @@ import{j as c,f as u,n as e,a as s,d as r,b as n,R as y,c as o,i as p,P as j,e a
 }
 </style>
 
-<form action="https://www.paypal.com/ncp/payment/2F3JYKGTLBLB4" method="post" target="_blank" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
+<form action="https://www.paypal.com/ncp/payment/2XYUC493HF2A6" method="post" target="_blank" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
   <input class="pp-2F3JYKGTLBLB4" type="submit" value="Comprar ahora">
   <img src="https://www.paypalobjects.com/images/Debit_Credit_APM.svg" alt="cards">
   <section> Con la tecnología de <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-wordmark-color.svg" alt="paypal" style="height:0.875rem;vertical-align:middle;"></section>
@@ -47,7 +47,7 @@ import{j as c,f as u,n as e,a as s,d as r,b as n,R as y,c as o,i as p,P as j,e a
 }
 </style>
 
-<form action="https://www.paypal.com/ncp/payment/PB276H3GR354G" method="post" target="_blank" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
+<form action="https://www.paypal.com/ncp/payment/WNFJQ2LVHKJXL" method="post" target="_blank" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
   <input class="pp-PB276H3GR354G" type="submit" value="Comprar ahora">
   <img src="https://www.paypalobjects.com/images/Debit_Credit_APM.svg" alt="cards">
   <section> Con la tecnología de <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-wordmark-color.svg" alt="paypal" style="height:0.875rem;vertical-align:middle;"></section>
@@ -69,7 +69,7 @@ import{j as c,f as u,n as e,a as s,d as r,b as n,R as y,c as o,i as p,P as j,e a
 }
 </style>
 
-<form action="https://www.paypal.com/ncp/payment/5E4PXR4WBJZ3A" method="post" target="_blank" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
+<form action="https://www.paypal.com/ncp/payment/5GJDHSNUMBHKL" method="post" target="_blank" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
   <input class="pp-5E4PXR4WBJZ3A" type="submit" value="Comprar ahora">
   <img src="https://www.paypalobjects.com/images/Debit_Credit_APM.svg" alt="cards">
   <section> Con la tecnología de <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-wordmark-color.svg" alt="paypal" style="height:0.875rem;vertical-align:middle;"></section>
